@@ -2,7 +2,7 @@
 
 Copyright (c) 2007-2014 IOLA and Ole Laursen.
 Licensed under the MIT license.
-
+ 
 It works by listening for changes on the placeholder div (through the jQuery
 resize event plugin) - if the size changes, it will redraw the plot.
 
