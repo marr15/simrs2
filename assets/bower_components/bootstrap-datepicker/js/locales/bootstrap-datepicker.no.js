@@ -1,6 +1,6 @@
 /**
  *  Norwegian translation for bootstrap-datepicker
- **/
+ **/ 
 ;(function($){
   $.fn.datepicker.dates['no'] = {
     days: ['Søndag', 'Mandag', 'Tirsdag', 'Onsdag', 'Torsdag', 'Fredag', 'Lørdag'],
