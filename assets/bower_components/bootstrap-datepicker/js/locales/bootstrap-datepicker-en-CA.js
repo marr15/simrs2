@@ -1,6 +1,6 @@
 /**
  * Canadian English translation for bootstrap-datepicker
- * Mike Nacey <mnacey@gmail.com>
+ * Mike Nacey <mnacey@gmail.com >
  */
 ;(function($){
 	$.fn.datepicker.dates['en-CA'] = {
