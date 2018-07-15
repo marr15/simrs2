@@ -2,7 +2,7 @@
 
 Copyright (c) 2007-2014 IOLA and Ole Laursen.
 Licensed under the MIT license.
-
+ 
 The default behaviour is double click and scrollwheel up/down to zoom in, drag
 to pan. The plugin defines plot.zoom({ center }), plot.zoomOut() and
 plot.pan( offset ) so you easily can add custom controls. It also fires
