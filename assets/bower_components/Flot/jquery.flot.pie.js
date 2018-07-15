@@ -2,7 +2,7 @@
 
 Copyright (c) 2007-2014 IOLA and Ole Laursen.
 Licensed under the MIT license.
-
+ 
 The plugin assumes that each series has a single data value, and that each
 value is a positive integer or zero.  Negative numbers don't make sense for a
 pie chart, and have unpredictable results.  The values do NOT need to be
