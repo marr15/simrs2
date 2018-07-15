@@ -1,7 +1,7 @@
 /* Flot plugin for plotting error bars. 
 
 Copyright (c) 2007-2014 IOLA and Ole Laursen.
-Licensed under the MIT license.
+Licensed under the MIT license. 
 
 Error bars are used to show standard deviation and other statistical
 properties in a plot.
