@@ -1,6 +1,6 @@
 /**
  * Arabic-Tunisia translation for bootstrap-datepicker
- * Souhaieb Besbes <besbes.souhaieb@gmail.com>
+ * Souhaieb Besbes <besbes.souhaieb@gmail.com >
  */
 ;(function($){
     $.fn.datepicker.dates['ar-tn'] = {
