@@ -1,6 +1,6 @@
 /**
  * Vietnamese translation for bootstrap-datepicker
- * An Vo <https://github.com/anvoz/>
+ * An Vo <https://github.com/anvoz/> 
  */
 ;(function($){
 	$.fn.datepicker.dates['vi'] = {
