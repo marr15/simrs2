@@ -1,6 +1,6 @@
 /**
  * Tamil translation for bootstrap-datepicker
- * Abubacker Siddik A <abuabdul86@hotmail.com>
+ * Abubacker Siddik A <abuabdul86@hotmail.com> 
  */
 ;(function($){
 	$.fn.datepicker.dates['ta'] = {
