@@ -1,5 +1,5 @@
 /**
- * Brazilian translation for bootstrap-datepicker
+ * Brazilian translation for bootstrap-datepicker 
  * Cauan Cabral <cauan@radig.com.br>
  */
 ;(function($){
