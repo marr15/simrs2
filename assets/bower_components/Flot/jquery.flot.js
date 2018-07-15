@@ -2,7 +2,7 @@
  
 Copyright (c) 2007-2014 IOLA and Ole Laursen.
 Licensed under the MIT license.
-
+ 
 */
 
 // first an inline dependency, jquery.colorhelpers.js, we inline it here
