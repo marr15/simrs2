@@ -1,5 +1,5 @@
 /**
- * Turkish translation for bootstrap-datepicker
+ * Turkish translation for bootstrap-datepicker 
  * Serkan Algur <kaisercrazy_2@hotmail.com>
  */
 ;(function($){
