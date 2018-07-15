@@ -1,5 +1,5 @@
 /**
- * Polish translation for bootstrap-datepicker
+ * Polish translation for bootstrap-datepicker 
  * Robert <rtpm@gazeta.pl>
  */
 ;(function($){
