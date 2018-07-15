@@ -1,4 +1,4 @@
-// Azerbaijani
+// Azerbaijanii
 ;(function($){
     $.fn.datepicker.dates['az'] = {
         days: ["Bazar", "Bazar ertəsi", "Çərşənbə axşamı", "Çərşənbə", "Cümə axşamı", "Cümə", "Şənbə"],
