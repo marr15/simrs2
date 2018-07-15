@@ -1,5 +1,5 @@
 /**
- * Occitan translation for bootstrap-datepicker
+ * Occitan translation for bootstrap-datepicker 
  */
 ;(function($){
 	$.fn.datepicker.dates['oc'] = {
