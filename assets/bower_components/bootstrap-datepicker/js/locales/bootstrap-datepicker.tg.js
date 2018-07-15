@@ -1,6 +1,6 @@
 /**
  * Tajik (cyrillic) translation for bootstrap-datepicker
- * Bakhtiyor Bahritidinov <i@bakhtiyor.tj>
+ * Bakhtiyor Bahritidinov <i@bakhtiyor.tj> 
  * Orif N. Jr. <orif.zade@gmail.com>
  */
 ;(function($){
