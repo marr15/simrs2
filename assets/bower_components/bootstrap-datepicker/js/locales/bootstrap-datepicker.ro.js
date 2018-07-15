@@ -1,5 +1,5 @@
 /**
- * Romanian translation for bootstrap-datepicker
+ * Romanian translation for bootstrap-datepicker 
  * Cristian Vasile <cristi.mie@gmail.com>
  */
 ;(function($){
