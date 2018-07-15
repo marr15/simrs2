@@ -1,6 +1,6 @@
 /**
  * Ukrainian translation for bootstrap-datepicker
- * Igor Polynets
+ * Igor Polynets 
  */
 ;(function($){
 	$.fn.datepicker.dates['uk'] = {
