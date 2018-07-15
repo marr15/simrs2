@@ -1,5 +1,5 @@
 /* Flot plugin for plotting images.
-
+ 
 Copyright (c) 2007-2014 IOLA and Ole Laursen.
 Licensed under the MIT license.
 
